@@ -3,5 +3,5 @@
 #### Bigdata for IoT Intelligence SW
  - Data type : Building BMS data 
  - Building location : VTT in Finland
- - Research Hotel
+ - Download : https://github.com/jeonghoonkang/bigdata/blob/master/Download.md
 
