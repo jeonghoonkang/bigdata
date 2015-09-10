@@ -9,9 +9,5 @@
  - Download : https://github.com/jeonghoonkang/bigdata/blob/master/Download.md
 
 #### How to use
-
-> import cPickle
-
-> tsfile=cPickle.load(open('VTT_GW1_HA12_VM_KV_K.bin'))
-
-> tsfile.keys()
+ - file loading & print key or value
+   - https://github.com/jeonghoonkang/bigdata/blob/master/parsing.py
