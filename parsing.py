@@ -9,7 +9,6 @@ print
 print "loading ... Bin file"
 
 print tsfile
-print 
 
 print "keys of %s" %filename, tsfile.keys()
 print "tsfile['ts'][0]", tsfile['ts'][0]
